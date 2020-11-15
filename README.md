@@ -1,5 +1,6 @@
-# Data_science
-<h3>recognition_project</h3>
+# Data Science
+
+<h3>Recognition Project</h3>
 
 ![](ui_snapshot.jpg)
 
@@ -37,4 +38,16 @@ Python
 
 5/Python flask for http server
 
-6/HTML/CSS/Javascript for UI  
+6/HTML/CSS/Javascript for UI 
+
+<h3> Home Prices </h3>
+
+![](BHP_website.PNG)
+
+In this data science project, I build a real estate price prediction website. 
+First step, I build a model using sklearn and linear regression using banglore home prices dataset from kaggle.com. Second step, I write a python flask server that uses the saved model to serve http requests. Third component is the website built in html, css and javascript that allows user to enter home square ft area, bedrooms etc and it will call python flask server to retrieve the predicted price.
+During model building I cover almost all data science concepts such as data load and cleaning, outlier detection and removal, feature engineering, dimensionality reduction, gridsearchcv for hyperparameter tunning, k fold cross validation etc. Technology and tools wise this project covers,
+
+
+
+
