@@ -2,12 +2,17 @@
 In the First data science and machine learning project(named: recognition_project), we classify sports personalities. We restrict classification to only 5 people,
 
 1/Maria Sharapova
-dfezf
+
 2/Serena Williams
+
 3/Virat Kohli
+
 3/Roger Federer
+
 5/Lionel Messi
+
 Here is the folder structure,
+
 
 ui : This contains ui website code
 untitled1: Python flask server
