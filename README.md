@@ -1,5 +1,8 @@
 # Data_science
 <h3>recognition_project</h3>
+![](ui_snapshot.jpg)
+![](BHP_website.PNG)
+
 In the First data science and machine learning project(named: recognition_project), we classify sports personalities. We restrict classification to only 5 people,
 
 1/Maria Sharapova
